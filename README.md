@@ -16,6 +16,10 @@ tags: ["guides", "browser extensions", "video downloads"]
 
 # How to Download SKOOL Videos (Free) | Browser Extension Demo Walkthrough
 
+<a href="https://www.youtube.com/watch?v=ujWUiJxk614" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-skool-videos-free-demo-step-by-step-instructions.jpg" width="700px">
+</a>
+
 
 Skool Video Downloader is a browser extension for saving authorized Skool classroom, community, and course videos from pages you can access.
 
@@ -29,9 +33,7 @@ Skool Video Downloader detects supported Skool videos in your browser and provid
 
 Verified repository:
 
-```text
-https://github.com/serpapps/skool-downloader
-```
+[serpapps/skool-downloader](https://github.com/serpapps/skool-downloader)
 
 ## Before You Start
 
